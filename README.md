@@ -1,6 +1,6 @@
 # Landslide Detection using Deep Learning
 
-A slide deck can also be found <a href = "[https://docs.google.com/presentation/d/1XBrxFEC0Vevl71OohKzahIv-yZ3y08jYd3MabAb84k4/edit?usp=drive_link](https://drive.google.com/file/d/1k_k5gSbiwaxUpx9kECyB3UGpgnfQ3AQs/view?usp=sharing)"> here </a>
+A slide deck can also be found <a href = "https://drive.google.com/file/d/1k_k5gSbiwaxUpx9kECyB3UGpgnfQ3AQs/view?usp=sharing"> here </a>
 
 
 This project explores the idea of multiple Landslide detection in cases of natural calamities such as heavy rainfall or earthquakes using Sattelite images to assess and identify damage quickly; this project has the potential to reduce manual annotation by a significant portion, allowing deep machine learning models to pick up on damage caused by calamities.
