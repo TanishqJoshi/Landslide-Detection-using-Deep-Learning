@@ -1,13 +1,14 @@
-# LandSlide-Detection-DL
-A slide deck describing the project can be found here:
-(https://drive.google.com/file/d/1m3CKnGdIgeTEUE_nbmWFyHOcN8NrVOQe/view?usp=sharing)
+# LandSlide Detection using Deep Learning
+
+A slide deck can also be found <a href = "https://docs.google.com/presentation/d/1XBrxFEC0Vevl71OohKzahIv-yZ3y08jYd3MabAb84k4/edit?usp=drive_link"> here </a>
+
 
 This project explores the idea of multiple Landslide detection in cases of natural calamities such as heavy rainfall or earthquakes using Sattelite images to assess and identify damage quickly; this project has the potential to reduce manual annotation by a significant portion, allowing deep machine learning models to pick up on damage caused by calamities.
 
 Multiple landslide events occur often across the world which have the potential to cause significant harm to both human life and property. Although a substantial amount of research has been conducted to
 address mapping of landslides using Earth observation (EO) data, several gaps and uncertainties remain with developing models to be operational at the global scale.
 
-A dataset available at https://zenodo.org/records/7189381#.Y0a2UHZBxD9 has been used for this project.
+A dataset available at <a href = "https://zenodo.org/records/7189381#.Y0a2UHZBxD9"> here </a> has been used for this project.
 
 HR-GLDD, a high-resolution (HR) dataset for landslide mapping composed of landslide instances from ten different physiographical regions globally: South and South-East Asia, East Asia, South America, and Central America. The dataset contains five rainfall-triggered and five earthquake-triggered multiple landslide events that occurred in varying geomorphological and topographical regions.
 
@@ -24,3 +25,5 @@ These are the model results, i.e the landslides it was able to identify:
 ![download (1)](https://github.com/YashC1308/LandSlide-Detection-DL/assets/83706455/4c963b08-e9f8-4d28-bd03-35cd0e96c7bf)
 
 
+Tech Stack:
+Python, Tensorflow, Keras, GeoPandas, Rasterio, Numpy , Matplotlib
